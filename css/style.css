@@ -325,7 +325,7 @@ img {
 }
 
 .social-links {
-   
+   display: flex;
 }
 
 .icon {
@@ -471,7 +471,7 @@ img {
         color: #fff;
 }
 
-.social-links-footer {
+.social-links-list {
     display: flex;
     gap: 16px;
 }
@@ -493,7 +493,7 @@ img {
     transition-duration: 250ms;
 }
 
-.icon-footer {
+.icon {
     fill: #f4f4fd;
     stroke: #f4f4fd;
 }
