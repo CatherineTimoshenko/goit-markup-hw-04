@@ -173,6 +173,7 @@ img {
     padding-bottom: 188px;
     max-width: 1440px;
     background-size: cover;
+    margin: 0 auto;
 }
 
 
@@ -325,7 +326,6 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    margin-bottom: 8px;
 }
 
 .team-text {
